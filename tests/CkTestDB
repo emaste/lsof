@@ -65,7 +65,7 @@ then
   echo ""
   echo "     $new"
   echo ""
-  exit 1
+  # exit 1
 fi
 
 # Establish trap and stty handling.
